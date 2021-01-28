@@ -1,0 +1,173 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "name": "apple",
+      "calories": 88,
+      "dietary_preferences": [
+        "vegan"
+      ],
+      "serving_size": 6,
+      "serving_size_units": "oz"
+    },
+    {
+      "id": 2,
+      "name": "chicken breast",
+      "calories": 125,
+      "dietary_preferences": [
+        "keto"
+      ],
+      "serving_size": 3,
+      "serving_size_units": "oz"
+    },
+    {
+      "id": 3,
+      "name": "whole milk",
+      "calories": 240,
+      "dietary_preferences": [
+        "keto"
+      ],
+      "serving_size": 8,
+      "serving_size_units": "oz"
+    },
+    {
+      "id": 4,
+      "name": "brocolli",
+      "calories": 50,
+      "dietary_preferences": [
+        "vegan"
+      ],
+      "serving_size": 5.3,
+      "serving_size_units": "oz"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Sam",
+      "lastName": "Davies",
+      "email": "sam@acme.com",
+      "log": [
+        {
+          "1611698690011": {
+            "food": "apple",
+            "servingSize": "1",
+            "calories": 88
+          }
+        },
+        {
+          "1611698773485": {
+            "food": "apple",
+            "servingSize": "1",
+            "calories": 88
+          }
+        },
+        {
+          "1611698782605": {
+            "food": "apple",
+            "servingSize": "2",
+            "calories": 176
+          }
+        },
+        {
+          "1611702423219": {
+            "food": "apple",
+            "servingSize": "2",
+            "calories": 176
+          }
+        },
+        {
+          "1611702496595": {
+            "food": "apple",
+            "servingSize": "2",
+            "calories": 176
+          }
+        },
+        {
+          "1611703157803": {
+            "food": "apple",
+            "servingSize": "1",
+            "calories": 88
+          }
+        },
+        {
+          "1611703191283": {
+            "food": "chicken breast",
+            "servingSize": "1.25",
+            "calories": 125
+          }
+        },
+        {
+          "1611780359410": {
+            "food": "apple",
+            "servingSize": "3",
+            "calories": 264
+          }
+        },
+        {
+          "1611780370191": {
+            "food": "chicken breast",
+            "servingSize": "1",
+            "calories": 125
+          }
+        },
+        {
+          "1611780399183": {
+            "food": "chicken breast",
+            "servingSize": "250",
+            "calories": 31250
+          }
+        },
+        {
+          "1611780590224": {
+            "food": "chicken breast",
+            "servingSize": "3",
+            "calories": 375
+          }
+        },
+        {
+          "1611780619695": {
+            "food": "chicken breast",
+            "servingSize": "2",
+            "calories": 250
+          }
+        },
+        {
+          "1611780658248": {
+            "food": "apple",
+            "servingSize": "2",
+            "calories": 176
+          }
+        },
+        {
+          "1611782447679": {
+            "food": "apple",
+            "servingSize": "2",
+            "calories": 176
+          }
+        },
+        {
+          "1611782520558": {
+            "food": "chicken breast",
+            "servingSize": "2",
+            "calories": 250
+          }
+        },
+        {
+          "1611851625138": {
+            "food": "apple",
+            "servingSize": "2",
+            "calories": 176
+          }
+        },
+        {
+          "1611851635471": {
+            "food": "chicken breast",
+            "servingSize": "a",
+            "calories": null
+          }
+        }
+      ]
+    }
+  ]
+}
